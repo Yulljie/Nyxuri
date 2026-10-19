@@ -19,8 +19,8 @@
   <a href="LICENSE"><img height="22" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceGPLv3/licencegplv33.svg" alt="GPL-3.0" /></a>
 </p>
 
-<a href="https://github.com/user-attachments/assets/9ef4da30-54c0-491b-916f-2f2a3beac6be">
-  <img src="https://github.com/user-attachments/assets/9ef4da30-54c0-491b-916f-2f2a3beac6be" alt="Nyxuri 预览" width="92%" />
+<a href="https://github.com/user-attachments/assets/8528079a-434b-4b45-8b50-38d6a94c37dd">
+  <img src="https://github.com/user-attachments/assets/8528079a-434b-4b45-8b50-38d6a94c37dd" alt="Nyxuri 预览" width="92%" />
 </a>
 
 <p>
